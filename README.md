@@ -1,5 +1,5 @@
 # conversiontoUT1andGPS
-This repository will allow you to convert from UTC to UT1 and GPS time scales.
+This repository will allow you to convert from UTC to UT1 and GPS time scales.\n
 #UT1
 The table is downloaded from the internet, then all lines are read: the modified julian date and the corresponding bull (to be used for the conversion) are saved in arrays.
 #GPS
